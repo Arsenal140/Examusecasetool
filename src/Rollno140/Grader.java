@@ -2,6 +2,7 @@ package Rollno140;
 
 public class Grader {
 	
+	String grade;
 	int total_marks;
 	String roll_num;
 	
